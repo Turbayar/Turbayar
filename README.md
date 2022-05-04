@@ -1,6 +1,6 @@
-![MasterHead](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_1.png)
-
 <h1 align="center">Hey there , I'm Turbayar 👋</h1>
+<img width="1000" alt="header_1" src="https://user-images.githubusercontent.com/76059058/166666981-8361d318-986e-4e6f-85d0-86231f63c8ae.png">
+
 <h3 align="center">A passionate frontend developer from Mongolia</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
