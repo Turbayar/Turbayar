@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **MEARN**
+- 🌱 Awarded the Presidential Scholarship for academic merit, which covers 100% of tuition.
 
 - 📫 How to reach me **turbayar.ganaa@gmail.com**
 
